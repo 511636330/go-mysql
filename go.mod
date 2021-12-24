@@ -1,0 +1,9 @@
+module github.com/511636330/go-mysql
+
+go 1.16
+
+require (
+	github.com/511636330/go-conf v1.0.0
+	gorm.io/driver/mysql v1.0.5
+	gorm.io/gorm v1.21.8
+)
